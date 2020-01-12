@@ -1,5 +1,5 @@
 # FBS-Kit
-Minecraft Datapack, Gives new players a kit.
+Minecraft Datapack, Gives new players a kit of items.
      When a new player joins the Server, they get a Kit.
      Includes: Stone Tools, Leather Armor, 3 Player Heads
      Kit Editable in new.MCF.
@@ -10,4 +10,5 @@ Thanks for checking this pack out!  I honestly just made it for my personal serv
 it was easy enough to cut the books out and post it.  I hope it serves someone well!
 
 Cheers
+
 -Infamous

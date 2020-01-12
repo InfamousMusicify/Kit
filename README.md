@@ -9,6 +9,9 @@ New Features Comming at some point!  (Such as /kit commands and cooldowns.)
 Thanks for checking this pack out!  I honestly just made it for my personal server to Induct new players,
 it was easy enough to cut the books out and post it.  I hope it serves someone well!
 
+     Check out the Beta-Testing Server!
+     https://bit.ly/2TizsgS
+
 Cheers
 
 -Infamous

@@ -1,3 +1,4 @@
+A Minecraft Datapack which Gives new players a kit of items.
 
      This Datapack gives new players a kit of items.
      When a new player joins the Server, they get a Kit.

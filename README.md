@@ -8,6 +8,8 @@ A Minecraft Datapack which Gives new players a kit of items.
      Commands:
      /trigger KitBooks
      /trigger KitHeads
+     OP Command:
+     funstion kit:uninstall (uninstalls the pack.  this will reset everyone if you reinstall afterward.)
 
 Thanks for checking this pack out!  I honestly just made it for my personal server to Induct new players.  
 I hope it serves someone well!

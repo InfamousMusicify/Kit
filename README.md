@@ -6,10 +6,13 @@ A Minecraft Datapack which Gives new players a kit of items.
      Kit Editable in new.MCF. (and books.mcf)
      
      Commands:
-     /trigger KitBooks
-     /trigger KitHeads
+     /trigger kit  (cooldown = 1 day)
+     /trigger kitbooks
+     /trigger kitheads
      OP Command:
      /function kit:uninstall (uninstalls the pack.  this will reset everyone if you reinstall afterward.)
+     /scoreboard objectives add bro dummy "Friends"
+     /scoreboard players set <player> bro 6  (Permissions for No cooldown on "/trigger kit")
 
 How to Install a Datapack:
 https://www.youtube.com/watch?v=4Dxzw12TQcg

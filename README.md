@@ -5,6 +5,9 @@ A Minecraft Datapack which Gives new players a kit of items.
      Includes: Stone Tools, Bow/Arrows, Leather Armor, 3 Player Heads, a Welcome Book and a Command Book.
      Kit Editable in new.MCF. (and books.mcf)
      
+           Click FBSKit Pub Vx.x and then click download.
+      Paste the datapack into your .minecraft/saves/world/datapacks folder.
+     
      Commands:
      /trigger kit  (cooldown = 1 day)
      /trigger kitbooks

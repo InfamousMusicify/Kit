@@ -1,5 +1,11 @@
 # Versions and Notes
 
+     Version 1.7:
+Cleaned Code, Performance Boosted, Bugs fixed, commands added.
+Added /trigger kitmodbooks - for mods (must be promoted by an OP)
+  OP Command:
+/scoreboard players set <player> mod 1  (Permission for mod book, can set to any number above 1)
+
      Version 1.6:
 Adding Logout reset on kit_cd scoreboard for MP purposes.
 Added More Kits and Perms for said kits.

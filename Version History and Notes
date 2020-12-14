@@ -1,5 +1,9 @@
 # Versions and Notes
 
+     Version 1.8:
+Optimized performance, slower tick times.
+pack.png added.
+
      Version 1.7:
 Cleaned Code, Performance Boosted, Bugs fixed, commands added.
 Added /trigger kitmodbooks - for mods (must be promoted by an OP)

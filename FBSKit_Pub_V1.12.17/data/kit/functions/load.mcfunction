@@ -1,21 +1,30 @@
 # kit:load
+# Track first login
 scoreboard objectives add NewbLogin dummy
 scoreboard objectives add kitbooks trigger
 scoreboard objectives add kitheads trigger
+# Leather kit
 scoreboard objectives add kit trigger
 scoreboard objectives add kitiron trigger
 scoreboard objectives add kitdiamond trigger
+# books for mods
 scoreboard objectives add kitmodbooks trigger
 scoreboard objectives add kitnether trigger
+# wood and leather tools
 scoreboard objectives add kitwood trigger
 scoreboard objectives add kit_cd trigger "View Kit Cooldown Time"
 scoreboard objectives add kitcd dummy "Kit Cooldown Tracker"
+# main tick intermediary
 scoreboard objectives add kit_tick dummy
+# sub tick intermediary
 scoreboard objectives add kit_tick_int dummy
+# sub tick: Cooldown on or off
 scoreboard objectives add kit_tick_cd dummy
+# Kit intermediary (connects cooldown for other kit options)
 scoreboard objectives add kit_i dummy
 scoreboard objectives add kit_op_bows dummy
 scoreboard players add @a NewbLogin 0
+# 20 minutes = 1180 secs = ticks V
 scoreboard players set @a kitcd 23600
 
 scoreboard players add #last kit_tick 0

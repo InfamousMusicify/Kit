@@ -1,15 +1,8 @@
-# tick/tick_cmd_off
-# Main kits fire
-execute if score #last kit_tick_int matches 0 as @a run function kit:tick/tick_leather
-execute if score #last kit_tick_int matches 1 as @a run function kit:tick/tick_iron
-execute if score #last kit_tick_int matches 2 as @a run function kit:tick/tick_diamond
-execute if score #last kit_tick_int matches 3 as @a run function kit:tick/tick_netherite
-# cooldown fire
+# tick_login_off
+function kit:score
+
 execute if score #last kit_tick_cd matches 1 as @a run function kit:tick/cooldown_off
-
-
-# Give New Player Kit
-# execute as @a[scores={NewbLogin=0}] run function kit:new
+execute if score #last kit_tick matches 1 as @a run function kit:tick/login_off
 # Books
 execute as @a[scores={kitbooks=1..}] run function kit:cmds/books
 # Heads

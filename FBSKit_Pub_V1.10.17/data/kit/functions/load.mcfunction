@@ -14,13 +14,14 @@ scoreboard objectives add kit_tick dummy
 scoreboard objectives add kit_tick_int dummy
 scoreboard objectives add kit_tick_cd dummy
 scoreboard objectives add kit_i dummy
-
+scoreboard objectives add kit_op_bows dummy
 scoreboard players add @a NewbLogin 0
 scoreboard players set @a kitcd 23600
 
 scoreboard players add #last kit_tick 0
 scoreboard players add #last kit_tick_int 0
 scoreboard players add #last kit_tick_cd 0
+scoreboard players add #last kit_op_bows 0
 
 scoreboard objectives add kit_cdc dummy "Kit Cooldown value calc"
 scoreboard players add @a kit_cdc 0

@@ -1,0 +1,17 @@
+{
+    "display": {
+        "title": "FBS Kit Pub V1.8           ",
+        "description": "/trigger kit - for another kit!.",
+        "icon": {
+            "item": "minecraft:iron_sword"
+        },
+        "announce_to_chat": false,
+        "show_toast": false
+    },
+    "parent": "main:main/kit",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}

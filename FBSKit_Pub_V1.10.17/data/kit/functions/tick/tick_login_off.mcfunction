@@ -2,7 +2,7 @@
 function kit:score
 
 execute if score #last kit_tick_cd matches 1 as @a run function kit:tick/cooldown_off
-
+execute if score #last kit_tick matches 1 as @a run kit:tick/login_off
 # Books
 execute as @a[scores={kitbooks=1..}] run function kit:cmds/books
 # Heads

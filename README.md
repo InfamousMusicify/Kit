@@ -6,7 +6,7 @@ Adds a few kit commands!
 
 *__Want a kit of items for new players who join your server?  or for a single player playthru?__  
 Toggle between 4 Login Kits or turn off the login kit, add permissions for trusted players to use special kits or avoid cooldowns.  
-Adds 5 Item kits and 2 Extra Kits!  Accessible by /trigger commands or first login, all toggleable in the settings panel.*  
+Adds 5 Item Kits and 2 Extra Kits!  Accessible by /trigger commands or first login, all toggleable in the settings panel.*  
 
 __Includes:__ Tools, Armor, Bow/Arrows, 3 Player Heads, a Welcome Book and a Command Book.  (and a few hidden extras)  
 

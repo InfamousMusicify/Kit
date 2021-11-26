@@ -1,0 +1,17 @@
+{
+    "display": {
+        "title": "FBS Kit Public           ",
+        "description": "/trigger kit - leather kit!\n/trigger kitwood - wood kit!\n/trigger kitiron - iron kit!\n/trigger kitdiamond - diamond kit!\n/trigger kitnether - netherite kit!\n/trigger kitheads - 3 of your own head!\n/trigger kitbooks - Command and Welcome Books\n/trigger kitmodbooks - Mod Book(s) for The Chosen",
+        "icon": {
+            "item": "minecraft:netherite_helmet"
+        },
+        "announce_to_chat": false,
+        "show_toast": false
+    },
+    "parent": "main:main/kit",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}

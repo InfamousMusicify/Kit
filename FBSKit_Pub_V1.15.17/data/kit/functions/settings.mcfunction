@@ -14,10 +14,10 @@ tellraw @s ["",{"text":"                     Over-Powered Bows: [","color":"gold
 
 tellraw @s ["",{"text":"\u00A7m                                                                                ","color":"dark_gray"}]
 tellraw @s {"text":"                               Login Kit:","color":"gold"}
-tellraw @s ["",{"text":" \u0020 \u0020                          [","color":"gold"},{"text":"Leather","color":"dark_green","clickEvent":{"action":"run_command","value":"/scoreboard players set #last kit_tick_int 0"}},{"text":"]","color":"gold"}]
-tellraw @s ["",{"text":" \u0020 \u0020                            [","color":"gold"},{"text":"Iron","color":"gray","clickEvent":{"action":"run_command","value":"/scoreboard players set #last kit_tick_int 1"}},{"text":"]","color":"gold"}]
-tellraw @s ["",{"text":" \u0020 \u0020                          [","color":"gold"},{"text":"Diamond","color":"aqua","clickEvent":{"action":"run_command","value":"/scoreboard players set #last kit_tick_int 2"}},{"text":"]","color":"gold"}]
-tellraw @s ["",{"text":" \u0020 \u0020                         [","color":"gold"},{"text":"Netherite","color":"dark_red","clickEvent":{"action":"run_command","value":"/scoreboard players set #last kit_tick_int 3"}},{"text":"]","color":"gold"}]
+tellraw @s ["",{"text":" \u0020 \u0020                          [","color":"gold"},{"text":"Leather","color":"dark_green","clickEvent":{"action":"run_command","value":"/function kit:cmds/kit_switch_l"}},{"text":"]","color":"gold"}]
+tellraw @s ["",{"text":" \u0020 \u0020                            [","color":"gold"},{"text":"Iron","color":"gray","clickEvent":{"action":"run_command","value":"/function kit:cmds/kit_switch_i"}},{"text":"]","color":"gold"}]
+tellraw @s ["",{"text":" \u0020 \u0020                          [","color":"gold"},{"text":"Diamond","color":"aqua","clickEvent":{"action":"run_command","value":"/function kit:cmds/kit_switch_d"}},{"text":"]","color":"gold"}]
+tellraw @s ["",{"text":" \u0020 \u0020                         [","color":"gold"},{"text":"Netherite","color":"dark_red","clickEvent":{"action":"run_command","value":"/function kit:cmds/kit_switch_n"}},{"text":"]","color":"gold"}]
 tellraw @s ["",{"text":"\u00A7m                                                                                ","color":"dark_gray"}]
 
 # # #

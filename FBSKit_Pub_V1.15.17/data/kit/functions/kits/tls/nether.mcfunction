@@ -16,7 +16,7 @@ give @s minecraft:netherite_leggings
 give @s minecraft:netherite_boots
 # Tools cont.
 give @s minecraft:netherite_hoe
-execute if entity @s[scores={NewbLogin=0}] run give @s minecraft:trident
 # xs
-execute if entity @s[scores={NewbLogin=0}] run give @s minecraft:spectral_arrow 32
+give @s minecraft:trident
+give @s minecraft:spectral_arrow 32
 # # #

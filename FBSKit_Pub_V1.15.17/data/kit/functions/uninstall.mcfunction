@@ -18,4 +18,5 @@ scoreboard objectives remove kit_tick_cd
 scoreboard objectives remove kitwood
 scoreboard objectives remove kitnether
 scoreboard objectives remove kit_op_bows
+scoreboard objectives remove kit_i
 # scoreboard objectives remove mincalc

@@ -35,6 +35,9 @@ __OP Commands:__
      /scoreboard players set <player> mod 6  (access to mod books, "/trigger kitmodbooks")
      /function kit:uninstall (uninstalls the pack.  this will reset everyone if you reinstall/reload afterward.)
      
+(You can edit the Welcome Book in kit/functions/cmds/books.mcf - I recommend throwing thogether a simple welcome book)  
+[Example and Editor](https://mcstacker.bimbimma.com/#!92591)  
+
 ## [🔗Download🔗](https://github.com/InfamousMusicify/FBS-Kit/archive/refs/heads/master.zip)  
 
 [How to Install a Datapack](https://www.youtube.com/watch?v=4Dxzw12TQcg)    

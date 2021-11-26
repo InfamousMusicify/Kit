@@ -10,3 +10,6 @@ scoreboard players enable @a[scores={bro=2..}] kitiron
 scoreboard players enable @a[scores={bro=3..}] kitdiamond
 scoreboard players enable @a[scores={bro=4..}] kitnether
 scoreboard players enable @a[scores={mod=1..}] kitmodbooks
+execute if score #last kit_tick_int matches 1..3 as @a run scoreboard players enable @a kitiron
+execute if score #last kit_tick_int matches 2..3 as @a run scoreboard players enable @a kitdiamond
+execute if score #last kit_tick_int matches 3 as @a run scoreboard players enable @a kitnether

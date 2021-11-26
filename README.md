@@ -1,8 +1,7 @@
-# [FBS Kit]()  
+# [Kit]()  
 ### Minecraft: Java Edition - Data Pack  
 __*Gives New Players a Kit of Items!*__    
 Adds a few kit commands!  
-
 
 *__Want a kit of items for new players who join your server?  or for a single player playthru?__  
 Toggle between 4 Login Kits or turn off the login kit, add permissions for trusted players to use special kits or avoid cooldowns.  
@@ -41,6 +40,8 @@ __OP Commands:__
 ## [🔗Download🔗](https://github.com/InfamousMusicify/FBS-Kit/archive/refs/heads/master.zip)  
 
 [How to Install a Datapack](https://www.youtube.com/watch?v=4Dxzw12TQcg)    
+
+AKA: Vanilla Item Kit, FBS Kit, FamousBros Kit, Vanilla Kit, Kit.  
 
 Thanks for checking this pack out!  I just made it for my personal server to Induct new players.  (now it is overgrown (: )  
 I hope it serves someone well!  

@@ -4,13 +4,13 @@
             "item": "minecraft:netherite_sword"
         },
         "title": {
-            "text": "FBS Kit",
+            "text": "Kit                                                                         ",
             "color": "white",
             "bold": false,
             "italic": false
         },
         "description": {
-            "text": "Kit Datapack, gives new players a few useful items, adds kit commands.",
+            "text": "Gives New Players a Kit of Items!  Adds a few kit commands!",
             "color": "green",
             "bold": false,
             "italic": true

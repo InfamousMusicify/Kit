@@ -39,7 +39,7 @@ __OP Commands:__
 
 ## [🔗Download🔗](https://github.com/InfamousMusicify/FBS-Kit/archive/refs/heads/master.zip)  
 
-[How to Install a Datapack](https://www.youtube.com/watch?v=4Dxzw12TQcg)    
+[How to Install a Datapack](https://youtu.be/JHEjZlVlqGE)    
 
 AKA: Vanilla Item Kit, FBS Kit, FamousBros Kit, Vanilla Kit, Kit.  
 

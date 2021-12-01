@@ -11,7 +11,7 @@ __Includes:__ Tools, Armor, Bow/Arrows, 3 Player Heads, a Welcome Book and a Com
 
 __Commands:__  
 
-     /trigger kit  () (cooldown = 1 in-game day)
+     /trigger kit  (cooldown = 1 in-game day)
      /trigger kit add 2 (Iron)  /trigger kit add 3 (Diamond)  /trigger kit add 4  (Netherite)  /trigger kit add 5  (Wood)
      /trigger kitbooks
      /trigger kitheads
@@ -34,6 +34,8 @@ __OP Commands:__
      /scoreboard players set <player> mod 6  (access to mod books, "/trigger kitmodbooks")
      /function kit:uninstall (uninstalls the pack.  this will reset everyone if you reinstall/reload afterward.)
      
+Hit the advancements key to see in game info and help!
+
 (You can edit the Welcome Book in kit/functions/cmds/books.mcf - I recommend throwing thogether a simple welcome book)  
 [Example and Editor](https://mcstacker.bimbimma.com/#!92591)  
 

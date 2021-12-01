@@ -6,6 +6,7 @@ scoreboard players enable @a kit
 scoreboard players enable @a kit_cd
 scoreboard players enable @a kitwood
 scoreboard players add @a kitcd 0
+scoreboard players add @a kit_cd_o 0
 scoreboard players enable @a[scores={bro=2..}] kitiron
 scoreboard players enable @a[scores={bro=3..}] kitdiamond
 scoreboard players enable @a[scores={bro=4..}] kitnether

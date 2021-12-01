@@ -14,6 +14,7 @@ scoreboard objectives add kitnether trigger
 scoreboard objectives add kitwood trigger
 scoreboard objectives add kit_cd trigger "View Kit Cooldown Time"
 scoreboard objectives add kitcd dummy "Kit Cooldown Tracker"
+scoreboard objectives add kit_cd_o dummy "Cooldown Override"
 # main tick intermediary
 scoreboard objectives add kit_tick dummy
 # sub tick intermediary
@@ -24,18 +25,23 @@ scoreboard objectives add kit_tick_cd dummy
 scoreboard objectives add kit_i dummy
 scoreboard objectives add kit_op_bows dummy
 scoreboard players add @a NewbLogin 0
+
+scoreboard objectives add 23600 dummy
 # 20 minutes = 1180 secs = ticks V
-scoreboard players set @a kitcd 23600
+# scoreboard players set @a kitcd 23600
 
 scoreboard players add #last kit_tick 0
 scoreboard players add #last kit_tick_int 0
 scoreboard players add #last kit_tick_cd 0
 scoreboard players add #last kit_op_bows 0
+scoreboard players set #last 23600 23600
 
 scoreboard objectives add kit_cdc dummy "Kit Cooldown value calc"
 scoreboard players add @a kit_cdc 0
 scoreboard objectives add tickcalc dummy
-scoreboard players set @a tickcalc 20
+scoreboard objectives add mincalc dummy
+scoreboard players set #last tickcalc 60
+scoreboard players set #last mincalc 20
 
 scoreboard objectives add mod dummy "Perms"
 scoreboard objectives add bro dummy "Friends"

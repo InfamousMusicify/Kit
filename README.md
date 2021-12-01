@@ -11,7 +11,8 @@ __Includes:__ Tools, Armor, Bow/Arrows, 3 Player Heads, a Welcome Book and a Com
 
 __Commands:__  
 
-     /trigger kit  (cooldown = 1 in-game day)
+     /trigger kit  () (cooldown = 1 in-game day)
+     /trigger kit add 2 (Iron)  /trigger kit add 3 (Diamond)  /trigger kit add 4  (Netherite)  /trigger kit add 5  (Wood)
      /trigger kitbooks
      /trigger kitheads
      

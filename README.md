@@ -26,8 +26,7 @@ __OP Commands:__
 
      /function kit:settings  (Admin panel, change login kit/ toggle commands, OP Bows, cooldowns)
      /scoreboard players reset <player> NewbLogin  (give player a fresh login status, instantly gives login kit)
-     /scoreboard players set <player> bro 0  (Reset permissions for cooldown on "/trigger kit")
-     /scoreboard players set <player> bro 1  (Permissions for No cooldown on "/trigger kit")
+     /scoreboard players set <player> kit_cd_o 1  ('No Cooldown' Permission)
      /scoreboard players set <player> bro 2  (Permissions for "/trigger kitiron")
      /scoreboard players set <player> bro 3  (Permissions for "/trigger kitdiamond")
      /scoreboard players set <player> bro 4  (Permissions for "/trigger kitnether")

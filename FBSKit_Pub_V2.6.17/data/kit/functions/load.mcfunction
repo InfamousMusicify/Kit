@@ -26,7 +26,7 @@ scoreboard objectives add kit_i dummy
 scoreboard objectives add kit_op_bows dummy
 scoreboard players add @a NewbLogin 0
 
-scoreboard objectives add 23600 dummy
+scoreboard objectives add 1200 dummy
 # 20 minutes = 1180 secs = ticks V
 # scoreboard players set @a kitcd 23600
 
@@ -34,7 +34,7 @@ scoreboard players add #last kit_tick 0
 scoreboard players add #last kit_tick_int 0
 scoreboard players add #last kit_tick_cd 0
 scoreboard players add #last kit_op_bows 0
-scoreboard players set #last 23600 23600
+scoreboard players set #last 1200 1200
 
 scoreboard objectives add kit_cdc dummy "Kit Cooldown value calc"
 scoreboard players add @a kit_cdc 0

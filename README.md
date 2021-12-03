@@ -39,7 +39,7 @@ Hit the advancements key to see in game info and help!
 (You can edit the Welcome Book in kit/functions/cmds/books.mcf - I recommend throwing thogether a simple welcome book)  
 [Example and Editor](https://mcstacker.bimbimma.com/#!92591)  
 
-## [🔗Download🔗](https://github.com/InfamousMusicify/FBS-Kit/archive/refs/heads/master.zip)  
+## [🔗Download🔗](https://github.com/InfamousMusicify/FBS-Kit/archive/refs/heads/1.17.zip)  
 
 [How to Install a Datapack](https://youtu.be/JHEjZlVlqGE)    
 

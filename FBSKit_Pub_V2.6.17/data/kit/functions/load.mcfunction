@@ -39,9 +39,9 @@ scoreboard players set #last 1200 1200
 scoreboard objectives add kit_cdc dummy "Kit Cooldown value calc"
 scoreboard players add @a kit_cdc 0
 scoreboard objectives add tickcalc dummy
-scoreboard objectives add mincalc dummy
+# scoreboard objectives add mincalc dummy
 scoreboard players set #last tickcalc 60
-scoreboard players set #last mincalc 20
+# scoreboard players set #last mincalc 20
 
 scoreboard objectives add mod dummy "Perms"
 scoreboard objectives add bro dummy "Friends"

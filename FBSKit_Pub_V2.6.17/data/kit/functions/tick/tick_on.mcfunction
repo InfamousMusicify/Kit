@@ -1,34 +1,20 @@
 # tick/tick_on
 # function kit:score
 # Main kits fire
-execute if score #last kit_tick_int matches 0 as @a run function kit:tick/tick_leather
-execute if score #last kit_tick_int matches 1 as @a run function kit:tick/tick_iron
-execute if score #last kit_tick_int matches 2 as @a run function kit:tick/tick_diamond
-execute if score #last kit_tick_int matches 3 as @a run function kit:tick/tick_nether
-# cooldown fire
-# execute if score #last kit_tick_cd matches 1 as @a run function kit:tick/cooldown_off
-
-# Give New Player Kit
-# execute as @a[scores={NewbLogin=0}] run function kit:new
+execute if score #last kit_tick_int matches 0 as @a[scores={NewbLogin=0}] run function kit:new/leather
+execute if score #last kit_tick_int matches 1 as @a[scores={NewbLogin=0}] run function kit:new/iron
+execute if score #last kit_tick_int matches 2 as @a[scores={NewbLogin=0}] run function kit:new/diamond
+execute if score #last kit_tick_int matches 3 as @a[scores={NewbLogin=0}] run function kit:new/nether
 # Books
 execute as @a[scores={kitbooks=1..}] run function kit:cmds/books
 # Heads
 execute as @a[scores={kitheads=1..}] run function kit:cmds/heads
 # Kits
 execute as @a[scores={kit=1..}] run function kit:utils/cmds/kit
-# execute as @a[scores={kitwood=1..}] run function kit:utils/cmds/kit_wood
-# execute as @a[scores={kitiron=1..}] run function kit:utils/cmds/kit_iron
-# execute as @a[scores={kitdiamond=1..}] run function kit:utils/cmds/kit_diamond
-# execute as @a[scores={kitnether=1..}] run function kit:utils/cmds/kit_nether
-# scoreboard players set @a kit 0
-
-
-
-# execute as @a[tag=kitcmd,scores={kit=1..}] run function kit:cmds/kit
-execute as @a[tag=kitcmd,scores={kitwood=1..}] run function kit:kits/kit_wood
-execute as @a[tag=kitcmd,scores={kitiron=1..}] run function kit:kits/kit_iron
-execute as @a[tag=kitcmd,scores={kitdiamond=1..}] run function kit:kits/kit_diamond
-execute as @a[tag=kitcmd,scores={kitnether=1..}] run function kit:kits/kit_nether
+execute as @a[scores={kitwood=1..}] run function kit:kits/kit_wood
+execute as @a[scores={kitiron=1..}] run function kit:kits/kit_iron
+execute as @a[scores={kitdiamond=1..}] run function kit:kits/kit_diamond
+execute as @a[scores={kitnether=1..}] run function kit:kits/kit_nether
 
 # Mod Kits
 execute as @a[scores={kitmodbooks=1..}] run function kit:kits/mod_books

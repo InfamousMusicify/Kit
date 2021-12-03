@@ -20,6 +20,6 @@ scoreboard players set @s kit_cdc 0
 scoreboard players set @s 1200 1200
 scoreboard players set #last 1200 1200
 scoreboard players set #last tickcalc 60
-scoreboard players set #last mincalc 20
+# scoreboard players set #last mincalc 20
 # execute unless entity @s
 

@@ -10,16 +10,16 @@
             "italic": false
         },
         "description": {
-            "text": "Gives New Players a Kit of Items!  Adds a few kit commands!",
+            "text": "Gives New Players a Kit of Items!\nAdds a few kit commands!",
             "color": "green",
             "bold": false,
-            "italic": true
+            "italic": false
         },
         "show_toast": false,
         "announce_to_chat": false,
         "frame": "goal"
     },
-    "parent": "main:main/death",
+    "parent": "inhauspacks:death",
     "criteria": {
         "tick": {
             "trigger": "minecraft:tick"

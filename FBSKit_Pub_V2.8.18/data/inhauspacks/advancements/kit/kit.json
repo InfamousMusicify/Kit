@@ -1,0 +1,26 @@
+{
+    "display": {
+        "title": "Using Kit                                                                 ",
+        "description": ["",
+            {"text":"/trigger kit - leather kit!","color":"green"},{"text":"\n"},
+            {"text":"/trigger kitiron - iron kit!","color":"green"},{"text":"\n"},
+            {"text":"/trigger kitdiamond - diamond kit!","color":"green"},{"text":"\n"},
+            {"text":"/trigger kitnether - netherite kit!","color":"green"},{"text":"\n"},
+            {"text":"/trigger kitheads - 3 of your own head!","color":"green"},{"text":"\n"},
+            {"text":"/trigger kitbooks - Welcome Books!","color":"green"},{"text":"\n"},
+            {"text":"/trigger kitwood - wood kit!","color":"yellow"},{"text":"\n"},
+            {"text":"/trigger kitmodbooks\nMod Book(s) for The Chosen","color":"red"}
+            ],
+        "icon": {
+            "item": "minecraft:netherite_helmet"
+        },
+        "announce_to_chat": false,
+        "show_toast": false
+    },
+    "parent": "inhauspacks:kit",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}

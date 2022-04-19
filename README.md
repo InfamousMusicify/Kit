@@ -46,9 +46,9 @@ Hit the advancements key to see in game info and help!
 AKA: Vanilla Item Kit, FBS Kit, FamousBros Kit, Vanilla Kit, Kit.  
 
 ### [Donations appreciated:🔗](https://www.patreon.com/InfamousMusicify)   
-__All of my projects take an inordinant amount of time to upkeep/create.  
-I use my free time to make them.  Any support would be much appreciated!  
-If you enjoy these packs and want to see more like them and see them maintained, [send me some love](https://www.patreon.com/InfamousMusicify)!__  
+__All of my projects take an inordinate amount of time to upkeep/create.  
+I use my free time to make them. Any support would be much appreciated!  
+If you enjoy these packs and want to see more like them and see them maintained, send me some love!__    
 
 Thanks for checking this pack out!  I just made it for my personal server to Induct new players.  (now it is overgrown (: )  
 I hope it serves someone well!  

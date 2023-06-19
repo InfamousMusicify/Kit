@@ -1,4 +1,4 @@
-# [Kit]()  
+# [Kit](https://github.com/InfamousMusicify/Kit/blob/master/Downloads.md)  
 ### Minecraft: Java Edition - Data Pack  
 __*Gives New Players a Kit of Items!*__    
 Adds a few kit commands!  
@@ -8,6 +8,12 @@ Toggle between 4 Login Kits or turn off the login kit, add permissions for trust
 Adds 5 Item Kits and 2 Extra Kits!  Accessible by /trigger commands or first login, all toggleable in the settings panel.*  
 
 __Includes:__ Tools, Armor, Bow/Arrows, 3 Player Heads, a Welcome Book and a Command Book.  (and a few hidden extras)  
+
+Hit the advancements key to see in game info and help!
+
+## [🔗Download🔗](https://github.com/InfamousMusicify/Kit/blob/master/Downloads.md)    
+
+**[How to Install a Datapack](https://www.planetminecraft.com/blog/how-to-download-and-install-minecraft-data-packs/)**   
 
 __Commands:__  
 
@@ -34,15 +40,13 @@ __OP Commands:__
      /scoreboard players set <player> mod 6  (access to mod books, "/trigger kitmodbooks")
      /function kit:uninstall (uninstalls the pack.  this will reset everyone if you reinstall/reload afterward.)
      
-Hit the advancements key to see in game info and help!
 
-(You can edit the Welcome Book in kit/functions/cmds/books.mcf - I recommend throwing thogether a simple welcome book)  
-[Example and Editor](https://mcstacker.bimbimma.com/#!92591)  
 
-## [🔗Download🔗](https://github.com/InfamousMusicify/FBS-Kit/archive/refs/heads/master.zip)  
+(You can edit the Welcome Book in kit/functions/cmds/books.mcf - I recommend throwing thogether a simple welcome book)   
 
-[How to Install a Datapack](https://youtu.be/JHEjZlVlqGE)    
-
+[Book Editor](https://minecraft.tools/en/book.php)    
+Rest in Peace old MCStacker Editor.
+ 
 AKA: Vanilla Item Kit, FBS Kit, FamousBros Kit, Vanilla Kit, Kit.  
 
 ### [Donations appreciated:🔗](https://www.patreon.com/InfamousMusicify)   
